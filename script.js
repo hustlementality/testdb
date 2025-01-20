@@ -1,4 +1,3 @@
-import { createClient } from '@supabase/supabase-js'
 const form = document.getElementById('email-form');
 const emailInput = document.getElementById('email');
 
